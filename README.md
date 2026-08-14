@@ -3,11 +3,13 @@
 > **Пробить по айди ВК — 946**, **пробить по ссылке ВК — 501**, **пробив ID ВК — 309**, **пробив по юзу ВК — 200**. Инструкция как **пробить человека по айди ВК**, **пробить номер по айди ВК**, **пробить по ссылке через страницу**, **пробив через ссылку ВК**.
 
 <p align="center">
+  <a href="https://bot-probiv.org/"><img src="https://img.shields.io/badge/⚡_ПРОБИТЬ_ВК_СЕЙЧАС-bot--probiv.org-FF1A1A?style=for-the-badge" alt="пробить вк сейчас"></a>
   <a href="https://github.com/probit-vk/probiv-vk"><img src="https://img.shields.io/badge/главный-пробив_вк-0078D4?style=for-the-badge" alt="пробив вк"></a>
   <a href="https://github.com/probit-vk/probiv-vk-bot"><img src="https://img.shields.io/badge/бот-тг-26A5E4?style=for-the-badge" alt="тг бот"></a>
 </p>
 
-<p align="center"><a href="https://github.com/probit-vk/probiv-vk#быстрый-старт---пробить-вк-за-10-секунд"><b>⚡ Пробить по ID/ссылке сейчас</b></a> • <a href="https://github.com/probit-vk/probiv-vk-po-nomeru-telefona">По номеру</a></p>
+<p align="center">
+  <a href="https://bot-probiv.org/"><img src="https://img.shields.io/badge/⚡_ПРОБИТЬ_ВК_СЕЙЧАС-bot--probiv.org-FF1A1A?style=for-the-badge" alt="пробить вк сейчас"></a><a href="https://github.com/probit-vk/probiv-vk#быстрый-старт---пробить-вк-за-10-секунд"><b>⚡ Пробить по ID/ссылке сейчас</b></a> • <a href="https://github.com/probit-vk/probiv-vk-po-nomeru-telefona">По номеру</a></p>
 
 ---
 
@@ -74,4 +76,9 @@
 
 - [Главный probiv-vk](https://github.com/probit-vk/probiv-vk) • [По номеру](https://github.com/probit-vk/probiv-vk-po-nomeru-telefona) • [Бот](https://github.com/probit-vk/probiv-vk-bot) • [Страница/профиль](https://github.com/probit-vk/probiv-vk-profil-stranica-akkaunt)
 
-<p align="center"><sub>пробить по айди вк • пробить по ссылке вк • пробив id вк • пробив по юзу вк</sub></p>
+<p align="center">
+  <a href="https://bot-probiv.org/"><img src="https://img.shields.io/badge/⚡_ПРОБИТЬ_ВК_СЕЙЧАС-bot--probiv.org-FF1A1A?style=for-the-badge" alt="пробить вк сейчас"></a><sub>пробить по айди вк • пробить по ссылке вк • пробив id вк • пробив по юзу вк</sub></p>
+
+
+
+
